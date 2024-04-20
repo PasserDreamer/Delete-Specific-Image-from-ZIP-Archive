@@ -1,0 +1,1 @@
+# Delete-Specific-Image-from-ZIP-Archive
