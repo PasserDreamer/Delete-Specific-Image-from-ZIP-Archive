@@ -1,8 +1,10 @@
 # 如何使用 / How To Use
 
-這基於 MD5 對照，將相同 MD5 的圖片從 ZIP 檔案中移除
+這基於 MD5 對照，將相同 MD5 的圖片從 ZIP 檔案中移除，當錯誤發生時不會中止，在執行的最後會整理發生過的錯誤。
 
-This is based on MD5 comparison, removing images with the same MD5 from the ZIP file.
+This is based on MD5 checksums, removing images with the same MD5 from a ZIP file. 
+
+It won't stop if errors occur, and it will compile a list of the errors that happened at the end of the execution.
 
 
 
